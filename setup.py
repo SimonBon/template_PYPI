@@ -13,7 +13,7 @@ setup(
     install_requires=read_requirements(),
     author="Firstname Lastname",
     include_package_data=True,
-    author_email="your.email",
+    author_email="your.email@provider.com",
     description="",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
